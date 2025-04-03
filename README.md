@@ -1,2 +1,10 @@
 # Python-for-kids
-examples
+Here, small and simple programs for learning Python for kids will be collected.
+
+
+
+
+
+
+
+
